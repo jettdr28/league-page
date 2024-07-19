@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to The PiGGskin Perspective Dynasty League, established in 2023.</p>
   <p>Mission: We the fantasy football managers of The PiGGskin Perspective Dynasty League aim to foster an environment that promotes fair play, healthy competition, and everlasting entertainment...</p>
-  <p>Values: Mutual Respect, Ambition, Yardstick for Fair Play, Outstanding Sportsmanship, Reliable Community, and Stress-Free and Positivity.</p>
+  <p>Values: Mutual Respect, Ambition, Yardstick for Fair Play, Outstanding Sportsmanship, Reliable Community, and Stress-Free and Positivity</p>
 `;
 
 /*   STEP 3   */

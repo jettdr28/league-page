@@ -256,8 +256,8 @@ export const managers = [
   {
        "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "854194496169181184",
-      "name": null,
-      "bio": "Lorem ipsum...",
+      "name": "Brendan Lynch",
+      "bio": null,
       "photo": "/managers/brendan.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE

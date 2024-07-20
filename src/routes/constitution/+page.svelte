@@ -1,3 +1,4 @@
+<!--
 <script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
@@ -301,3 +302,4 @@
     <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
 
 </div>
+--

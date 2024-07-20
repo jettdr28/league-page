@@ -26,7 +26,7 @@ export const managers = [
       "roster": 1, // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "317013062630518784",
       "name": "Jett Rosenstein",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/jett.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -47,7 +47,7 @@ export const managers = [
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "820485457543561216",
       "name": "Tommy Fink",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/Tommy.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -68,7 +68,7 @@ export const managers = [
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "642971139034984448",
       "name": "Jacob Goldman",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/jacob.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -89,7 +89,7 @@ export const managers = [
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "958929912964915200",
       "name": "Eric Tuan",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/eric.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -110,7 +110,7 @@ export const managers = [
        "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "960019693908058112",
       "name": "Mike Maerz",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/mike.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -131,7 +131,7 @@ export const managers = [
        "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "853395824556765184",
       "name": "Karl Fink",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/karl.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -152,7 +152,7 @@ export const managers = [
        "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "959333696367046656",
       "name": "Zach Esch",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/zach.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -173,7 +173,7 @@ export const managers = [
        "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "805186702984470528",
       "name": "Sam Decker",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/sam.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "dal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -194,7 +194,7 @@ export const managers = [
        "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "751217498795417600",
       "name": "Ben Andrews",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/ben.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -215,7 +215,7 @@ export const managers = [
        "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "853392993762254848",
       "name": "Charles Walter",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/charles.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -236,7 +236,7 @@ export const managers = [
        "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "853392295096074240",
       "name": "Jared Doyle",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/jared.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2016, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -256,7 +256,7 @@ export const managers = [
   {
        "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "854194496169181184",
-      "name": "Brendan Lynch",
+      "name": null,
       "bio": "Lorem ipsum...",
       "photo": "/managers/brendan.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2015, // (optional) when did the manager start playing fantasy football
@@ -278,7 +278,7 @@ export const managers = [
        "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "338126246032441344",
       "name": "Matt Maouad",
-      "bio": "Lorem ipsum...",
+      "bio": null,
       "photo": "/managers/brendan.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2017, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
